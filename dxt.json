@@ -11,4 +11,10 @@
     "longitude": -44.2008,
     "name": "Betim"
   }
+  {
+    "key": "DXE_ARACAJU",
+    "latitude": -19.9668,
+    "longitude": -44.2008,
+    "name": "$Host em Betim"
+  }
 ]
